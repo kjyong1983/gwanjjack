@@ -4,12 +4,13 @@ using System.Collections;
 public class CoffinCoverBreak : MonoBehaviour {
 
     public bool gameStart = false;
-    //Rigidbody2D rb;
+    public GameObject ps;
     Rigidbody rb;
     Vector3 randomVector;
 
 	void Start () {
         rb = gameObject.GetComponent<Rigidbody>();
+        //ps = GetComponent<ParticleSystem>();
         randomVector = new Vector3(Random.Range(-5, 5), Random.Range(0, 5), Random.Range(-5, 5));
         gameStart = true;// 이 부분을 true로 바꿔야 함
     }
@@ -18,10 +19,9 @@ public class CoffinCoverBreak : MonoBehaviour {
         if (gameStart)
         {
             rb.AddExplosionForce(300f, gameObject.transform.position + randomVector, 100f, 30f);
-            //Debug.DrawRay(gameObject.transform.position + randomVector, Vector3.up, Color.red, 10f);
+            Instantiate(ps, transform.position, Quaternion.identity);
             gameStart = false;
             StartCoroutine(Destroy());
-            //Debug.Break();
 
         }
 	}
@@ -29,6 +29,7 @@ public class CoffinCoverBreak : MonoBehaviour {
     IEnumerator Destroy()
     {
         yield return new WaitForSeconds(5);
+        Destroy(ps);
         Destroy(gameObject);
         yield break;
     }
