@@ -382,10 +382,10 @@ namespace PlatformerPro
 					if (jumpCount == 2) return AnimationState.DOUBLE_JUMP;
 					return AnimationState.JUMP;
 				}
-				// else if (character.Velocity.y >= 0)
-				// {
-				// 	return AnimationState.AIRBORNE;
-				// }
+				else if (character.Velocity.y >= 0)
+				{
+					return AnimationState.AIRBORNE;
+				}
 				else
 				{
 					return AnimationState.FALL;
