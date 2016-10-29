@@ -19,7 +19,11 @@ public class CoffinCoverBreak : MonoBehaviour {
         if (gameStart)
         {
             rb.AddExplosionForce(300f, gameObject.transform.position + randomVector, 100f, 30f);
-            Instantiate(ps, transform.position, Quaternion.identity);
+
+            if (ps != null)
+            {
+                Instantiate(ps, transform.position, Quaternion.identity);
+            }
             gameStart = false;
             StartCoroutine(Destroy());
 
