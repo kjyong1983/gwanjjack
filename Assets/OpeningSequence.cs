@@ -18,7 +18,7 @@ public class OpeningSequence : MonoBehaviour {
 		StartCoroutine("GameStart");
 		
 		//player.GetComponent<GroundMovement>()as.Speed(0);
-		iTween.MoveTo(kitty, iTween.Hash("path",iTweenPath.GetPath("kittypath"),"time",5f));
+		iTween.MoveTo(kitty, iTween.Hash("path",iTweenPath.GetPath("kittypath"),"time",4f));
 
 	}
 	
@@ -30,7 +30,7 @@ public class OpeningSequence : MonoBehaviour {
 
 	public IEnumerator GameStart()
     {
-  		yield return new WaitForSeconds(0.1f);
+  		yield return new WaitForSeconds(0.5f);
 
 		coffin.SetActive(true);
 		coffin_pre.SetActive(false);

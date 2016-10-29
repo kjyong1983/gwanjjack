@@ -9,12 +9,15 @@ public class StageStart : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
-	
+	void Update()
+	{
+		if (Input.anyKeyDown)
+		{
+			OnGameStartBtnClicked();
+		}
 	}
-
 	public void OnGameStartBtnClicked()
 	{
-		Application.LoadLevel("stage1");
+		Application.LoadLevel("Tutorial");
 	}
 }
