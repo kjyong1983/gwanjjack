@@ -29,7 +29,7 @@ public class CoffinCoverBreak : MonoBehaviour {
     IEnumerator Destroy()
     {
         yield return new WaitForSeconds(5);
-        Destroy(ps);
+        DestroyImmediate(ps, true);
         Destroy(gameObject);
         yield break;
     }
