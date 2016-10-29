@@ -45,7 +45,7 @@ Material:
       second: 0
     - first:
         name: _FogYStartPos
-      second: -3.99
+      second: -40.75
     - first:
         name: _LightmapPower
       second: 1
@@ -73,7 +73,7 @@ Material:
       second: {r: 0.103, g: 0.093493916, b: 0.076492645, a: 0.466}
     - first:
         name: _FrontColor
-      second: {r: 1, g: 1, b: 1, a: 0}
+      second: {r: 0.35294116, g: 0.35294116, b: 0.35294116, a: 0}
     - first:
         name: _LightDirF
       second: {r: 0, g: 0, b: -1, a: 1}

@@ -70,7 +70,7 @@ Material:
       second: {r: 0.5, g: 0.1, b: 0.2, a: 0}
     - first:
         name: _FogColor
-      second: {r: 0.103, g: 0.093493916, b: 0.076492645, a: 0.466}
+      second: {r: 0.39705884, g: 0.39705884, b: 0.39705884, a: 0.466}
     - first:
         name: _FrontColor
       second: {r: 1, g: 1, b: 1, a: 0}
