@@ -397,12 +397,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1000011884486494}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39998f7d1bc02b34d9f284c08fe6e85b, type: 3}
+  m_Script: {fileID: 11500000, guid: 8d0c0c7d605ecd345bcc2b6b499f7e78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
-  amplitude: 3
-  frequency: 0.5
+  amplitude: 1.5
+  frequency: 0.7
   isRight: 1
 --- !u!114 &114000011794771808
 MonoBehaviour:
@@ -496,7 +496,7 @@ ParticleSystem:
   moveWithTransform: 1
   autoRandomSeed: 1
   scalingMode: 1
-  randomSeed: 1875047354
+  randomSeed: 2034493812
   InitialModule:
     serializedVersion: 2
     enabled: 1
