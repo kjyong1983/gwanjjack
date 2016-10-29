@@ -356,10 +356,10 @@ namespace PlatformerPro
 					showJumpStartedAnimation = false;
 					return AnimationState.JUMP;
 				}
-				else if (character.Velocity.y >= 0)
-				{
-					return AnimationState.AIRBORNE;
-				}
+				// else if (character.Velocity.y >= 0)
+				// {
+				// 	return AnimationState.AIRBORNE;
+				// }
 				else
 				{
 					return AnimationState.FALL;
