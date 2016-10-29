@@ -75,9 +75,9 @@ namespace PlatformerPro
 			// Set frame speed - if friction is bigger than 2 we will slow the character down.
 			float frameSpeed = speed;
 			if (character.Friction > 2.0f) speed *= (2.0f / character.Friction );
-#if UNITY_EDITOR
-			if (Character.Friction >= 0 && Character.Friction < 2.0f) Debug.LogError("A friction less than 2 has no affect on digitial movements.");
-#endif
+//#if UNITY_EDITOR
+//			if (Character.Friction >= 0 && Character.Friction < 2.0f) Debug.LogError("A friction less than 2 has no affect on digitial movements.");
+//#endif
 			if (!character.rotateToSlopes) SnapToGround ();
 			if (character.Input.HorizontalAxisDigital == 1)
 			{
