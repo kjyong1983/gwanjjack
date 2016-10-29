@@ -152,9 +152,9 @@ namespace PlatformerPro
 			}
 			
 			// Set velocity vars
-			myAnimator.SetFloat("VelocityX", myCharacter.Velocity.x);
-			myAnimator.SetFloat("VelocityY", myCharacter.Velocity.y);
-			myAnimator.SetInteger("FacingDirection", myCharacter.FacingDirection);
+		//	myAnimator.SetFloat("VelocityX", myCharacter.Velocity.x);
+	//		myAnimator.SetFloat("VelocityY", myCharacter.Velocity.y);
+	//		myAnimator.SetInteger("FacingDirection", myCharacter.FacingDirection);
 		}
 
 		/// <summary>

@@ -609,6 +609,7 @@ GameObject:
   - 95: {fileID: 95000013138206384}
   - 114: {fileID: 114000012250091692}
   - 114: {fileID: 114000012039221070}
+  - 114: {fileID: 114000010659818580}
   m_Layer: 0
   m_Name: Mummy
   m_TagString: Untagged
@@ -1844,6 +1845,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: defa52c6e34a9449ba67cbdd81d30583, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114000010659818580
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014214723574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 514fe789a0c4c42ad909842152620c9c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ensureStatePlaysForOneFrame: 1
+  mappings: []
 --- !u!114 &114000010708307728
 MonoBehaviour:
   m_ObjectHideFlags: 1
