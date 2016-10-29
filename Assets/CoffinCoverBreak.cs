@@ -16,7 +16,7 @@ public class CoffinCoverBreak : MonoBehaviour {
     }
 
     void Update () {
-        if (gameStart)
+        if (gameStart && Input.GetButton("Jump"))
         {
             rb.AddExplosionForce(300f, gameObject.transform.position + randomVector, 100f, 30f);
 
