@@ -26,6 +26,8 @@ namespace PlatformerPro
 	[RequireComponent (typeof(BaseCollisions))]
 	public class Character : MonoBehaviour, IMob
 	{
+		public GameObject objMummy;
+		public GameObject objNakedMummy;
 
 #if UNITY_EDITOR
 		const string DOC_URL = "https://jnamobile.zendesk.com/hc/en-gb/categories/200246030-Platformer-PRO-Documentation";
@@ -1520,6 +1522,14 @@ namespace PlatformerPro
 			if (activeAttack != -1) ((BasicAttacks)movements[activeAttack]).InterruptAttack();
 			if (defaultDamageMovement != -1)
 			{
+			
+					//			Mummy
+				if(objMummy && objNakedMummy)
+				{
+					objNakedMummy.SetActive(true);
+					objMummy.SetActive(false);
+				}
+				//Debug.Log("1234");
 				if (activeMovement != defaultDamageMovement && activeMovement != -1) movements[activeMovement].LosingControl();
 				activeMovement = defaultDamageMovement;
 				((DamageMovement)movements[defaultDamageMovement]).Damage(info, false);
