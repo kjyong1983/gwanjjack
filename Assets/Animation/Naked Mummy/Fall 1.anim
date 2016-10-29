@@ -5,7 +5,7 @@ AnimationClip:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Fall
+  m_Name: Fall 1
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -23,18 +23,18 @@ AnimationClip:
         tangentMode: 0
       - time: 0.050000012
         value: {x: 0, y: -15.343, z: 0}
-        inSlope: {x: 16.980648, y: -0.5247033, z: 0}
-        outSlope: {x: 16.980648, y: -0.5247033, z: 0}
+        inSlope: {x: 9.285383, y: -0.2869196, z: 0}
+        outSlope: {x: 9.285383, y: -0.2869196, z: 0}
         tangentMode: 0
       - time: 0.16666667
-        value: {x: 0.17061894, y: -15.348272, z: 0}
-        inSlope: {x: 1.4624481, y: -0.045187816, z: 0}
-        outSlope: {x: 1.4624481, y: -0.045187816, z: 0}
+        value: {x: -1.6249428, y: -15.292789, z: 0}
+        inSlope: {x: -13.9280815, y: 0.43037963, z: 0}
+        outSlope: {x: -13.9280815, y: 0.43037963, z: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mummy body
+    path: NAKED Mummy body
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -45,18 +45,18 @@ AnimationClip:
         tangentMode: 0
       - time: 0.050000012
         value: {x: 32.702965, y: -150.3388, z: -107.4893}
-        inSlope: {x: -74.194626, y: 434.02838, z: 358.31818}
-        outSlope: {x: -74.194626, y: 434.02838, z: 358.31818}
+        inSlope: {x: -36.029953, y: 40.01088, z: 10.837398}
+        outSlope: {x: -36.029953, y: 40.01088, z: 10.837398}
         tangentMode: 0
       - time: 0.16666667
-        value: {x: 30.103119, y: -65.4033, z: -28.307007}
-        inSlope: {x: -22.284395, y: 728.0187, z: 678.70544}
-        outSlope: {x: -22.284395, y: 728.0187, z: 678.70544}
+        value: {x: 39.00821, y: -157.34071, z: -109.38585}
+        inSlope: {x: 54.044956, y: -60.016354, z: -16.256105}
+        outSlope: {x: 54.044956, y: -60.016354, z: -16.256105}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mummy body/Mummy arms left
+    path: NAKED Mummy body/NAKED Mummy arms left
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -67,18 +67,18 @@ AnimationClip:
         tangentMode: 0
       - time: 0.050000012
         value: {x: 3.588, y: -11.304001, z: 57.195004}
-        inSlope: {x: 116.90642, y: 24.142563, z: -80.9165}
-        outSlope: {x: 116.90642, y: 24.142563, z: -80.9165}
+        inSlope: {x: 70.16609, y: -6.4547696, z: 55.209064}
+        outSlope: {x: 70.16609, y: -6.4547696, z: 55.209064}
         tangentMode: 0
       - time: 0.16666667
-        value: {x: 2.2150056, y: -3.035039, z: 15.770782}
-        inSlope: {x: -11.768524, y: 70.87682, z: -355.06476}
-        outSlope: {x: -11.768524, y: 70.87682, z: -355.06476}
+        value: {x: -8.691071, y: -10.174416, z: 47.533413}
+        inSlope: {x: -105.24918, y: 9.68216, z: -82.81364}
+        outSlope: {x: -105.24918, y: 9.68216, z: -82.81364}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mummy body/Mummy arms right
+    path: NAKED Mummy body/NAKED Mummy arms right
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -89,18 +89,18 @@ AnimationClip:
         tangentMode: 0
       - time: 0.050000012
         value: {x: 0, y: -40.0913, z: 5.5109544}
-        inSlope: {x: 29.514612, y: 73.52124, z: -22.63633}
-        outSlope: {x: 29.514612, y: 73.52124, z: -22.63633}
+        inSlope: {x: 16.139225, y: 9.078213, z: -2.795074}
+        outSlope: {x: 16.139225, y: 9.078213, z: -2.795074}
         tangentMode: 0
       - time: 0.16666667
-        value: {x: 0.29655817, y: -26.643282, z: 1.3704662}
-        inSlope: {x: 2.5419273, y: 115.26874, z: -35.4899}
-        outSlope: {x: 2.5419273, y: 115.26874, z: -35.4899}
+        value: {x: -2.8243656, y: -41.67999, z: 6.0000925}
+        inSlope: {x: -24.208849, y: -13.617326, z: 4.1926126}
+        outSlope: {x: -24.208849, y: -13.617326, z: 4.1926126}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mummy body/Mummy head
+    path: NAKED Mummy body/NAKED Mummy head
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -111,18 +111,18 @@ AnimationClip:
         tangentMode: 0
       - time: 0.050000012
         value: {x: -18.496, y: -82.59801, z: -13.405001}
-        inSlope: {x: -12.408264, y: -61.17382, z: 46.058098}
-        outSlope: {x: -12.408264, y: -61.17382, z: 46.058098}
+        inSlope: {x: -38.947655, y: -33.743313, z: 1.8757021}
+        outSlope: {x: -38.947655, y: -33.743313, z: 1.8757021}
         tangentMode: 0
       - time: 0.16666667
-        value: {x: -5.487632, y: -83.093376, z: -3.4240236}
-        inSlope: {x: 111.500305, y: -4.24602, z: 85.55124}
-        outSlope: {x: 111.500305, y: -4.24602, z: 85.55124}
+        value: {x: -11.680157, y: -76.692924, z: -13.733249}
+        inSlope: {x: 58.42152, y: 50.614998, z: -2.8135548}
+        outSlope: {x: 58.42152, y: 50.614998, z: -2.8135548}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mummy body/Mummy legs left
+    path: NAKED Mummy body/NAKED Mummy legs left
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -133,57 +133,18 @@ AnimationClip:
         tangentMode: 0
       - time: 0.050000012
         value: {x: -33.166, y: 0, z: 0}
-        inSlope: {x: 46.059074, y: 42.69957, z: -6.3218975}
-        outSlope: {x: 46.059074, y: 42.69957, z: -6.3218975}
+        inSlope: {x: -32.48601, y: 23.349041, z: -3.4569492}
+        outSlope: {x: -32.48601, y: 23.349041, z: -3.4569492}
         tangentMode: 0
       - time: 0.16666667
-        value: {x: -9.153761, y: 0.42903873, z: -0.063521475}
-        inSlope: {x: 205.81921, y: 3.677475, z: -0.54446983}
-        outSlope: {x: 205.81921, y: 3.677475, z: -0.54446983}
+        value: {x: -27.480946, y: -4.0860844, z: 0.6049664}
+        inSlope: {x: 48.729042, y: -35.023582, z: 5.1854267}
+        outSlope: {x: 48.729042, y: -35.023582, z: 5.1854267}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mummy body/Mummy legs right
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - time: 0
-        value: {x: -49.490997, y: 0, z: 0}
-        inSlope: {x: 125.62196, y: 0, z: 0}
-        outSlope: {x: 125.62196, y: 0, z: 0}
-        tangentMode: 0
-      - time: 0.16666666
-        value: {x: -28.554005, y: 0, z: 0}
-        inSlope: {x: 125.62196, y: 0, z: 0}
-        outSlope: {x: 125.62196, y: 0, z: 0}
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: Mummy body/Mummy head/Mummy stray bandages (1)
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - time: 0
-        value: {x: -60.372868, y: 0, z: 0}
-        inSlope: {x: 217.63728, y: 0, z: 0}
-        outSlope: {x: 217.63728, y: 0, z: 0}
-        tangentMode: 0
-      - time: 0.050000012
-        value: {x: -49.491, y: 0, z: 0}
-        inSlope: {x: 220.04971, y: 0, z: 0}
-        outSlope: {x: 220.04971, y: 0, z: 0}
-        tangentMode: 0
-      - time: 0.16666667
-        value: {x: -23.537085, y: 0, z: 0}
-        inSlope: {x: 222.46216, y: 0, z: 0}
-        outSlope: {x: 222.46216, y: 0, z: 0}
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: Mummy body/Mummy head/Mummy stray bandages
+    path: NAKED Mummy body/NAKED Mummy legs right
   m_PositionCurves:
   - curve:
       serializedVersion: 2
@@ -195,18 +156,18 @@ AnimationClip:
         tangentMode: 0
       - time: 0.050000012
         value: {x: 0, y: 0, z: 0}
-        inSlope: {x: 0, y: 0.13650137, z: 0}
-        outSlope: {x: 0, y: 0.13650137, z: 0}
+        inSlope: {x: 0, y: 0.066029444, z: 0}
+        outSlope: {x: 0, y: 0.066029444, z: 0}
         tangentMode: 0
       - time: 0.16666667
-        value: {x: 0, y: 0.0048882905, z: 0}
-        inSlope: {x: 0, y: 0.041899636, z: 0}
-        outSlope: {x: 0, y: 0.041899636, z: 0}
+        value: {x: 0, y: -0.011555158, z: 0}
+        inSlope: {x: 0, y: -0.09904421, z: 0}
+        outSlope: {x: 0, y: -0.09904421, z: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mummy body
+    path: NAKED Mummy body
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -217,18 +178,18 @@ AnimationClip:
         tangentMode: 0
       - time: 0.050000012
         value: {x: -0.018, y: 0.281, z: -0.153}
-        inSlope: {x: -0.37520668, y: 0.15186353, z: 0.1785282}
-        outSlope: {x: -0.37520668, y: 0.15186353, z: 0.1785282}
+        inSlope: {x: -0.043454036, y: 0.006530963, z: -0.006710458}
+        outSlope: {x: -0.043454036, y: 0.006530963, z: -0.006710458}
         tangentMode: 0
       - time: 0.16666667
-        value: {x: -0.08780448, y: 0.313768, z: -0.10860331}
-        inSlope: {x: -0.5983242, y: 0.28086868, z: 0.38054302}
-        outSlope: {x: -0.5983242, y: 0.28086868, z: 0.38054302}
+        value: {x: -0.010395539, y: 0.27985707, z: -0.15182567}
+        inSlope: {x: 0.06518109, y: -0.00979645, z: 0.0100656925}
+        outSlope: {x: 0.06518109, y: -0.00979645, z: 0.0100656925}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mummy body/Mummy arms left
+    path: NAKED Mummy body/NAKED Mummy arms left
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -239,18 +200,35 @@ AnimationClip:
         tangentMode: 0
       - time: 0.050000012
         value: {x: 0.136, y: 0.288, z: -0.032}
-        inSlope: {x: 0.17150459, y: 0.40583768, z: -0.06962069}
-        outSlope: {x: 0.17150459, y: 0.40583768, z: -0.06962069}
+        inSlope: {x: 0.09378241, y: 0.22192076, z: -0.03807009}
+        outSlope: {x: 0.09378241, y: 0.22192076, z: -0.03807009}
         tangentMode: 0
       - time: 0.16666667
-        value: {x: 0.13772325, y: 0.29207778, z: -0.03269954}
-        inSlope: {x: 0.014770671, y: 0.034952506, z: -0.0059960466}
-        outSlope: {x: 0.014770671, y: 0.034952506, z: -0.0059960466}
+        value: {x: 0.11958808, y: 0.24916384, z: -0.025337733}
+        inSlope: {x: -0.1406737, y: -0.33288133, z: 0.057105158}
+        outSlope: {x: -0.1406737, y: -0.33288133, z: 0.057105158}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mummy body/Mummy arms right
+    path: NAKED Mummy body/NAKED Mummy arms right
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: 0.436, z: -0.017}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.16666667
+        value: {x: -0, y: 0.436, z: -0.017}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: NAKED Mummy body/NAKED Mummy head
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -261,18 +239,18 @@ AnimationClip:
         tangentMode: 0
       - time: 0.050000012
         value: {x: -0.065, y: 0.056, z: -0.03}
-        inSlope: {x: -0.28054965, y: 0.061130334, z: 0.04144228}
-        outSlope: {x: -0.28054965, y: 0.061130334, z: 0.04144228}
+        inSlope: {x: -0.15599431, y: 0.033427373, z: 0.0037141554}
+        outSlope: {x: -0.15599431, y: 0.033427373, z: 0.0037141554}
         tangentMode: 0
       - time: 0.16666667
-        value: {x: -0.06676389, y: 0.05661423, z: -0.021846749}
-        inSlope: {x: -0.015119102, y: 0.005264825, z: 0.06988501}
-        outSlope: {x: -0.015119102, y: 0.005264825, z: 0.06988501}
+        value: {x: -0.03770098, y: 0.05015021, z: -0.030649977}
+        inSlope: {x: 0.2339916, y: -0.050141092, z: -0.005571236}
+        outSlope: {x: 0.2339916, y: -0.050141092, z: -0.005571236}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mummy body/Mummy legs left
+    path: NAKED Mummy body/NAKED Mummy legs left
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -283,18 +261,18 @@ AnimationClip:
         tangentMode: 0
       - time: 0.050000012
         value: {x: 0.065, y: 0.056, z: -0.03}
-        inSlope: {x: 0.14942972, y: -0.35659397, z: -0.27095157}
-        outSlope: {x: 0.14942972, y: -0.35659397, z: -0.27095157}
+        inSlope: {x: 0.08171138, y: -0.19499323, z: -0.113281764}
+        outSlope: {x: 0.08171138, y: -0.19499323, z: -0.113281764}
         tangentMode: 0
       - time: 0.16666667
-        value: {x: 0.066501446, y: 0.052417, z: -0.0469653}
-        inSlope: {x: 0.012869559, y: -0.030711455, z: -0.14541689}
-        outSlope: {x: 0.012869559, y: -0.030711455, z: -0.14541689}
+        value: {x: 0.0507005, y: 0.09012383, z: -0.010175683}
+        inSlope: {x: -0.122567125, y: 0.29249, z: 0.16992272}
+        outSlope: {x: -0.122567125, y: 0.29249, z: 0.16992272}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Mummy body/Mummy legs right
+    path: NAKED Mummy body/NAKED Mummy legs right
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves: []
@@ -305,83 +283,77 @@ AnimationClip:
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
     genericBindings:
-    - path: 2222284048
+    - path: 3982635787
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3668985618
+    - path: 979435243
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 79313558
+    - path: 3225133207
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 4193371961
+    - path: 421625536
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2821030486
+    - path: 1822693463
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2222284048
+    - path: 3982635787
       attribute: 4
       script: {fileID: 0}
       classID: 4
       customType: 14
       isPPtrCurve: 0
-    - path: 3668985618
+    - path: 979435243
       attribute: 4
       script: {fileID: 0}
       classID: 4
       customType: 14
       isPPtrCurve: 0
-    - path: 79313558
+    - path: 3225133207
       attribute: 4
       script: {fileID: 0}
       classID: 4
       customType: 14
       isPPtrCurve: 0
-    - path: 3927885372
+    - path: 1677358091
       attribute: 4
       script: {fileID: 0}
       classID: 4
       customType: 14
       isPPtrCurve: 0
-    - path: 4193371961
+    - path: 421625536
       attribute: 4
       script: {fileID: 0}
       classID: 4
       customType: 14
       isPPtrCurve: 0
-    - path: 2821030486
+    - path: 1822693463
       attribute: 4
       script: {fileID: 0}
       classID: 4
       customType: 14
       isPPtrCurve: 0
-    - path: 2680604867
-      attribute: 4
+    - path: 1677358091
+      attribute: 1
       script: {fileID: 0}
       classID: 4
-      customType: 14
-      isPPtrCurve: 0
-    - path: 2395095833
-      attribute: 4
-      script: {fileID: 0}
-      classID: 4
-      customType: 14
+      customType: 0
       isPPtrCurve: 0
     pptrCurveMapping: []
   m_AnimationClipSettings:
@@ -394,7 +366,7 @@ AnimationClip:
     m_Level: 0
     m_CycleOffset: 0
     m_HasAdditiveReferencePose: 0
-    m_LoopTime: 0
+    m_LoopTime: 1
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
     m_LoopBlendPositionY: 0
@@ -427,7 +399,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Mummy body
+    path: NAKED Mummy body
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -440,19 +412,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 0
-        inSlope: 0.13650137
-        outSlope: 0.13650137
+        inSlope: 0.066029444
+        outSlope: 0.066029444
         tangentMode: 10
       - time: 0.16666667
-        value: 0.0048882905
-        inSlope: 0.041899636
-        outSlope: 0.041899636
+        value: -0.011555158
+        inSlope: -0.09904421
+        outSlope: -0.09904421
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Mummy body
+    path: NAKED Mummy body
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -477,7 +449,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Mummy body
+    path: NAKED Mummy body
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -490,19 +462,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 0
-        inSlope: 16.980648
-        outSlope: 16.980648
+        inSlope: 9.285383
+        outSlope: 9.285383
         tangentMode: 10
       - time: 0.16666667
-        value: 0.17061894
-        inSlope: 1.4624481
-        outSlope: 1.4624481
+        value: -1.6249428
+        inSlope: -13.9280815
+        outSlope: -13.9280815
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Mummy body
+    path: NAKED Mummy body
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -515,19 +487,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -15.343
-        inSlope: -0.5247033
-        outSlope: -0.5247033
+        inSlope: -0.2869196
+        outSlope: -0.2869196
         tangentMode: 10
       - time: 0.16666667
-        value: -15.348272
-        inSlope: -0.045187816
-        outSlope: -0.045187816
+        value: -15.292789
+        inSlope: 0.43037963
+        outSlope: 0.43037963
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Mummy body
+    path: NAKED Mummy body
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -552,7 +524,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Mummy body
+    path: NAKED Mummy body
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -565,19 +537,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -0.018
-        inSlope: -0.37520668
-        outSlope: -0.37520668
+        inSlope: -0.043454036
+        outSlope: -0.043454036
         tangentMode: 10
       - time: 0.16666667
-        value: -0.08780448
-        inSlope: -0.5983242
-        outSlope: -0.5983242
+        value: -0.010395539
+        inSlope: 0.06518109
+        outSlope: 0.06518109
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Mummy body/Mummy arms left
+    path: NAKED Mummy body/NAKED Mummy arms left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -590,19 +562,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 0.281
-        inSlope: 0.15186353
-        outSlope: 0.15186353
+        inSlope: 0.006530963
+        outSlope: 0.006530963
         tangentMode: 10
       - time: 0.16666667
-        value: 0.313768
-        inSlope: 0.28086868
-        outSlope: 0.28086868
+        value: 0.27985707
+        inSlope: -0.00979645
+        outSlope: -0.00979645
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Mummy body/Mummy arms left
+    path: NAKED Mummy body/NAKED Mummy arms left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -615,19 +587,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -0.153
-        inSlope: 0.1785282
-        outSlope: 0.1785282
+        inSlope: -0.006710458
+        outSlope: -0.006710458
         tangentMode: 10
       - time: 0.16666667
-        value: -0.10860331
-        inSlope: 0.38054302
-        outSlope: 0.38054302
+        value: -0.15182567
+        inSlope: 0.0100656925
+        outSlope: 0.0100656925
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Mummy body/Mummy arms left
+    path: NAKED Mummy body/NAKED Mummy arms left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -640,19 +612,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 32.702965
-        inSlope: -74.194626
-        outSlope: -74.194626
+        inSlope: -36.029953
+        outSlope: -36.029953
         tangentMode: 10
       - time: 0.16666667
-        value: 30.103119
-        inSlope: -22.284395
-        outSlope: -22.284395
+        value: 39.00821
+        inSlope: 54.044956
+        outSlope: 54.044956
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Mummy body/Mummy arms left
+    path: NAKED Mummy body/NAKED Mummy arms left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -665,19 +637,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -150.3388
-        inSlope: 434.02838
-        outSlope: 434.02838
+        inSlope: 40.01088
+        outSlope: 40.01088
         tangentMode: 10
       - time: 0.16666667
-        value: -65.4033
-        inSlope: 728.0187
-        outSlope: 728.0187
+        value: -157.34071
+        inSlope: -60.016354
+        outSlope: -60.016354
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Mummy body/Mummy arms left
+    path: NAKED Mummy body/NAKED Mummy arms left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -690,19 +662,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -107.4893
-        inSlope: 358.31818
-        outSlope: 358.31818
+        inSlope: 10.837398
+        outSlope: 10.837398
         tangentMode: 10
       - time: 0.16666667
-        value: -28.307007
-        inSlope: 678.70544
-        outSlope: 678.70544
+        value: -109.38585
+        inSlope: -16.256105
+        outSlope: -16.256105
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Mummy body/Mummy arms left
+    path: NAKED Mummy body/NAKED Mummy arms left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -715,19 +687,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 0.136
-        inSlope: 0.17150459
-        outSlope: 0.17150459
+        inSlope: 0.09378241
+        outSlope: 0.09378241
         tangentMode: 10
       - time: 0.16666667
-        value: 0.13772325
-        inSlope: 0.014770671
-        outSlope: 0.014770671
+        value: 0.11958808
+        inSlope: -0.1406737
+        outSlope: -0.1406737
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Mummy body/Mummy arms right
+    path: NAKED Mummy body/NAKED Mummy arms right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -740,19 +712,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 0.288
-        inSlope: 0.40583768
-        outSlope: 0.40583768
+        inSlope: 0.22192076
+        outSlope: 0.22192076
         tangentMode: 10
       - time: 0.16666667
-        value: 0.29207778
-        inSlope: 0.034952506
-        outSlope: 0.034952506
+        value: 0.24916384
+        inSlope: -0.33288133
+        outSlope: -0.33288133
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Mummy body/Mummy arms right
+    path: NAKED Mummy body/NAKED Mummy arms right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -765,19 +737,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -0.032
-        inSlope: -0.06962069
-        outSlope: -0.06962069
+        inSlope: -0.03807009
+        outSlope: -0.03807009
         tangentMode: 10
       - time: 0.16666667
-        value: -0.03269954
-        inSlope: -0.0059960466
-        outSlope: -0.0059960466
+        value: -0.025337733
+        inSlope: 0.057105158
+        outSlope: 0.057105158
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Mummy body/Mummy arms right
+    path: NAKED Mummy body/NAKED Mummy arms right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -790,19 +762,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 3.588
-        inSlope: 116.90642
-        outSlope: 116.90642
+        inSlope: 70.16609
+        outSlope: 70.16609
         tangentMode: 10
       - time: 0.16666667
-        value: 2.2150056
-        inSlope: -11.768524
-        outSlope: -11.768524
+        value: -8.691071
+        inSlope: -105.24918
+        outSlope: -105.24918
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Mummy body/Mummy arms right
+    path: NAKED Mummy body/NAKED Mummy arms right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -815,19 +787,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -11.304001
-        inSlope: 24.142563
-        outSlope: 24.142563
+        inSlope: -6.4547696
+        outSlope: -6.4547696
         tangentMode: 10
       - time: 0.16666667
-        value: -3.035039
-        inSlope: 70.87682
-        outSlope: 70.87682
+        value: -10.174416
+        inSlope: 9.68216
+        outSlope: 9.68216
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Mummy body/Mummy arms right
+    path: NAKED Mummy body/NAKED Mummy arms right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -840,19 +812,79 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 57.195004
-        inSlope: -80.9165
-        outSlope: -80.9165
+        inSlope: 55.209064
+        outSlope: 55.209064
         tangentMode: 10
       - time: 0.16666667
-        value: 15.770782
-        inSlope: -355.06476
-        outSlope: -355.06476
+        value: 47.533413
+        inSlope: -82.81364
+        outSlope: -82.81364
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Mummy body/Mummy arms right
+    path: NAKED Mummy body/NAKED Mummy arms right
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.16666667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: NAKED Mummy body/NAKED Mummy head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.436
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.16666667
+        value: 0.436
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: NAKED Mummy body/NAKED Mummy head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.017
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.16666667
+        value: -0.017
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: NAKED Mummy body/NAKED Mummy head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -865,19 +897,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 0
-        inSlope: 29.514612
-        outSlope: 29.514612
+        inSlope: 16.139225
+        outSlope: 16.139225
         tangentMode: 10
       - time: 0.16666667
-        value: 0.29655817
-        inSlope: 2.5419273
-        outSlope: 2.5419273
+        value: -2.8243656
+        inSlope: -24.208849
+        outSlope: -24.208849
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Mummy body/Mummy head
+    path: NAKED Mummy body/NAKED Mummy head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -890,19 +922,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -40.0913
-        inSlope: 73.52124
-        outSlope: 73.52124
+        inSlope: 9.078213
+        outSlope: 9.078213
         tangentMode: 10
       - time: 0.16666667
-        value: -26.643282
-        inSlope: 115.26874
-        outSlope: 115.26874
+        value: -41.67999
+        inSlope: -13.617326
+        outSlope: -13.617326
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Mummy body/Mummy head
+    path: NAKED Mummy body/NAKED Mummy head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -915,19 +947,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 5.5109544
-        inSlope: -22.63633
-        outSlope: -22.63633
+        inSlope: -2.795074
+        outSlope: -2.795074
         tangentMode: 10
       - time: 0.16666667
-        value: 1.3704662
-        inSlope: -35.4899
-        outSlope: -35.4899
+        value: 6.0000925
+        inSlope: 4.1926126
+        outSlope: 4.1926126
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Mummy body/Mummy head
+    path: NAKED Mummy body/NAKED Mummy head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -940,19 +972,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -0.065
-        inSlope: -0.28054965
-        outSlope: -0.28054965
+        inSlope: -0.15599431
+        outSlope: -0.15599431
         tangentMode: 10
       - time: 0.16666667
-        value: -0.06676389
-        inSlope: -0.015119102
-        outSlope: -0.015119102
+        value: -0.03770098
+        inSlope: 0.2339916
+        outSlope: 0.2339916
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Mummy body/Mummy legs left
+    path: NAKED Mummy body/NAKED Mummy legs left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -965,19 +997,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 0.056
-        inSlope: 0.061130334
-        outSlope: 0.061130334
+        inSlope: 0.033427373
+        outSlope: 0.033427373
         tangentMode: 10
       - time: 0.16666667
-        value: 0.05661423
-        inSlope: 0.005264825
-        outSlope: 0.005264825
+        value: 0.05015021
+        inSlope: -0.050141092
+        outSlope: -0.050141092
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Mummy body/Mummy legs left
+    path: NAKED Mummy body/NAKED Mummy legs left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -990,19 +1022,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -0.03
-        inSlope: 0.04144228
-        outSlope: 0.04144228
+        inSlope: 0.0037141554
+        outSlope: 0.0037141554
         tangentMode: 10
       - time: 0.16666667
-        value: -0.021846749
-        inSlope: 0.06988501
-        outSlope: 0.06988501
+        value: -0.030649977
+        inSlope: -0.005571236
+        outSlope: -0.005571236
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Mummy body/Mummy legs left
+    path: NAKED Mummy body/NAKED Mummy legs left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1015,19 +1047,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -18.496
-        inSlope: -12.408264
-        outSlope: -12.408264
+        inSlope: -38.947655
+        outSlope: -38.947655
         tangentMode: 10
       - time: 0.16666667
-        value: -5.487632
-        inSlope: 111.500305
-        outSlope: 111.500305
+        value: -11.680157
+        inSlope: 58.42152
+        outSlope: 58.42152
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Mummy body/Mummy legs left
+    path: NAKED Mummy body/NAKED Mummy legs left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1040,19 +1072,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -82.59801
-        inSlope: -61.17382
-        outSlope: -61.17382
+        inSlope: -33.743313
+        outSlope: -33.743313
         tangentMode: 10
       - time: 0.16666667
-        value: -83.093376
-        inSlope: -4.24602
-        outSlope: -4.24602
+        value: -76.692924
+        inSlope: 50.614998
+        outSlope: 50.614998
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Mummy body/Mummy legs left
+    path: NAKED Mummy body/NAKED Mummy legs left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1065,19 +1097,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -13.405001
-        inSlope: 46.058098
-        outSlope: 46.058098
+        inSlope: 1.8757021
+        outSlope: 1.8757021
         tangentMode: 10
       - time: 0.16666667
-        value: -3.4240236
-        inSlope: 85.55124
-        outSlope: 85.55124
+        value: -13.733249
+        inSlope: -2.8135548
+        outSlope: -2.8135548
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Mummy body/Mummy legs left
+    path: NAKED Mummy body/NAKED Mummy legs left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1090,19 +1122,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 0.065
-        inSlope: 0.14942972
-        outSlope: 0.14942972
+        inSlope: 0.08171138
+        outSlope: 0.08171138
         tangentMode: 10
       - time: 0.16666667
-        value: 0.066501446
-        inSlope: 0.012869559
-        outSlope: 0.012869559
+        value: 0.0507005
+        inSlope: -0.122567125
+        outSlope: -0.122567125
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Mummy body/Mummy legs right
+    path: NAKED Mummy body/NAKED Mummy legs right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1115,19 +1147,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 0.056
-        inSlope: -0.35659397
-        outSlope: -0.35659397
+        inSlope: -0.19499323
+        outSlope: -0.19499323
         tangentMode: 10
       - time: 0.16666667
-        value: 0.052417
-        inSlope: -0.030711455
-        outSlope: -0.030711455
+        value: 0.09012383
+        inSlope: 0.29249
+        outSlope: 0.29249
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Mummy body/Mummy legs right
+    path: NAKED Mummy body/NAKED Mummy legs right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1140,19 +1172,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -0.03
-        inSlope: -0.27095157
-        outSlope: -0.27095157
+        inSlope: -0.113281764
+        outSlope: -0.113281764
         tangentMode: 10
       - time: 0.16666667
-        value: -0.0469653
-        inSlope: -0.14541689
-        outSlope: -0.14541689
+        value: -0.010175683
+        inSlope: 0.16992272
+        outSlope: 0.16992272
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Mummy body/Mummy legs right
+    path: NAKED Mummy body/NAKED Mummy legs right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1165,19 +1197,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: -33.166
-        inSlope: 46.059074
-        outSlope: 46.059074
+        inSlope: -32.48601
+        outSlope: -32.48601
         tangentMode: 10
       - time: 0.16666667
-        value: -9.153761
-        inSlope: 205.81921
-        outSlope: 205.81921
+        value: -27.480946
+        inSlope: 48.729042
+        outSlope: 48.729042
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Mummy body/Mummy legs right
+    path: NAKED Mummy body/NAKED Mummy legs right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1190,19 +1222,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 0
-        inSlope: 42.69957
-        outSlope: 42.69957
+        inSlope: 23.349041
+        outSlope: 23.349041
         tangentMode: 10
       - time: 0.16666667
-        value: 0.42903873
-        inSlope: 3.677475
-        outSlope: 3.677475
+        value: -4.0860844
+        inSlope: -35.023582
+        outSlope: -35.023582
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Mummy body/Mummy legs right
+    path: NAKED Mummy body/NAKED Mummy legs right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1215,154 +1247,19 @@ AnimationClip:
         tangentMode: 10
       - time: 0.050000012
         value: 0
-        inSlope: -6.3218975
-        outSlope: -6.3218975
+        inSlope: -3.4569492
+        outSlope: -3.4569492
         tangentMode: 10
       - time: 0.16666667
-        value: -0.063521475
-        inSlope: -0.54446983
-        outSlope: -0.54446983
+        value: 0.6049664
+        inSlope: 5.1854267
+        outSlope: 5.1854267
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Mummy body/Mummy legs right
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - time: 0
-        value: -49.490997
-        inSlope: 125.62196
-        outSlope: 125.62196
-        tangentMode: 10
-      - time: 0.16666666
-        value: -28.554005
-        inSlope: 125.62196
-        outSlope: 125.62196
-        tangentMode: 10
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.x
-    path: Mummy body/Mummy head/Mummy stray bandages (1)
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 10
-      - time: 0.16666666
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 10
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.y
-    path: Mummy body/Mummy head/Mummy stray bandages (1)
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 10
-      - time: 0.16666666
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 10
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.z
-    path: Mummy body/Mummy head/Mummy stray bandages (1)
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - time: 0
-        value: -60.372868
-        inSlope: 217.63728
-        outSlope: 217.63728
-        tangentMode: 10
-      - time: 0.050000012
-        value: -49.491
-        inSlope: 220.04971
-        outSlope: 220.04971
-        tangentMode: 10
-      - time: 0.16666667
-        value: -23.537085
-        inSlope: 222.46216
-        outSlope: 222.46216
-        tangentMode: 10
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.x
-    path: Mummy body/Mummy head/Mummy stray bandages
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 10
-      - time: 0.050000012
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 10
-      - time: 0.16666667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 10
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.y
-    path: Mummy body/Mummy head/Mummy stray bandages
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 10
-      - time: 0.050000012
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 10
-      - time: 0.16666667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 10
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.z
-    path: Mummy body/Mummy head/Mummy stray bandages
+    path: NAKED Mummy body/NAKED Mummy legs right
     classID: 4
     script: {fileID: 0}
   m_EulerEditorCurves:
@@ -1373,7 +1270,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Mummy body/Mummy head/Mummy stray bandages (1)
+    path: NAKED Mummy body/NAKED Mummy legs left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1383,7 +1280,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Mummy body/Mummy head/Mummy stray bandages (1)
+    path: NAKED Mummy body/NAKED Mummy legs left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1393,7 +1290,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Mummy body/Mummy head/Mummy stray bandages (1)
+    path: NAKED Mummy body/NAKED Mummy legs left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1403,7 +1300,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Mummy body
+    path: NAKED Mummy body
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1413,7 +1310,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Mummy body
+    path: NAKED Mummy body
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1423,7 +1320,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Mummy body
+    path: NAKED Mummy body
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1433,7 +1330,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Mummy body/Mummy arms left
+    path: NAKED Mummy body/NAKED Mummy arms left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1443,7 +1340,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Mummy body/Mummy arms left
+    path: NAKED Mummy body/NAKED Mummy arms left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1453,7 +1350,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Mummy body/Mummy arms left
+    path: NAKED Mummy body/NAKED Mummy arms left
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1463,7 +1360,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Mummy body/Mummy arms right
+    path: NAKED Mummy body/NAKED Mummy arms right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1473,7 +1370,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Mummy body/Mummy arms right
+    path: NAKED Mummy body/NAKED Mummy arms right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1483,7 +1380,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Mummy body/Mummy arms right
+    path: NAKED Mummy body/NAKED Mummy arms right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1493,7 +1390,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Mummy body/Mummy head
+    path: NAKED Mummy body/NAKED Mummy head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1503,7 +1400,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Mummy body/Mummy head
+    path: NAKED Mummy body/NAKED Mummy head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1513,7 +1410,27 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Mummy body/Mummy head
+    path: NAKED Mummy body/NAKED Mummy head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: NAKED Mummy body/NAKED Mummy legs right
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: NAKED Mummy body/NAKED Mummy legs right
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1523,87 +1440,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Mummy body/Mummy legs right
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: Mummy body/Mummy legs right
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Mummy body/Mummy legs right
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: Mummy body/Mummy legs left
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: Mummy body/Mummy legs left
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Mummy body/Mummy legs left
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Mummy body/Mummy head/Mummy stray bandages
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: Mummy body/Mummy head/Mummy stray bandages
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: Mummy body/Mummy head/Mummy stray bandages
+    path: NAKED Mummy body/NAKED Mummy legs right
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 0
