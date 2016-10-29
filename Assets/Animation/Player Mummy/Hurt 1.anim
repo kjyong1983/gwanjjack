@@ -389,39 +389,136 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -0, y: 0, z: 0}
-        inSlope: {x: -18.648573, y: 0, z: 0}
-        outSlope: {x: -18.648573, y: 0, z: 0}
+        value: {x: -180, y: 0, z: 0}
+        inSlope: {x: -153.90001, y: 41.70855, z: -86.11712}
+        outSlope: {x: -153.90001, y: 41.70855, z: -86.11712}
+        tangentMode: 0
+      - time: 0.11666667
+        value: {x: -197.955, y: 4.8659973, z: -10.046997}
+        inSlope: {x: 342.85715, y: 0, z: 0}
+        outSlope: {x: 342.85715, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.23333333
+        value: {x: -100, y: 0, z: 0}
+        inSlope: {x: -8.764282, y: -20.854275, z: 43.05856}
+        outSlope: {x: -8.764282, y: -20.854275, z: 43.05856}
         tangentMode: 0
       - time: 0.35
-        value: {x: -6.5270004, y: 0, z: 0}
-        inSlope: {x: -9.324286, y: 0, z: 0}
-        outSlope: {x: -9.324286, y: 0, z: 0}
+        value: {x: -200, y: 0, z: 0}
+        inSlope: {x: -278.5714, y: 0, z: 0}
+        outSlope: {x: -278.5714, y: 0, z: 0}
         tangentMode: 0
-      - time: 0.5
-        value: {x: -6.5270004, y: 0, z: 0}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+      - time: 0.48333332
+        value: {x: -160, y: 0, z: 0}
+        inSlope: {x: 50.000008, y: 0, z: 0}
+        outSlope: {x: 50.000008, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.5833333
+        value: {x: -180, y: 0, z: 0}
+        inSlope: {x: -100.00001, y: 0, z: 0}
+        outSlope: {x: -100.00001, y: 0, z: 0}
         tangentMode: 0
       - time: 0.8333333
-        value: {x: -6.5270004, y: 0, z: 0}
-        inSlope: {x: 6.5269995, y: 0, z: 0}
-        outSlope: {x: 6.5269995, y: 0, z: 0}
+        value: {x: -180, y: 0, z: 0}
+        inSlope: {x: -75.00001, y: 75.00001, z: 56.250004}
+        outSlope: {x: -75.00001, y: 75.00001, z: 56.250004}
         tangentMode: 0
-      - time: 1.3333334
-        value: {x: -0, y: 0, z: 0}
-        inSlope: {x: 6.5269995, y: 0, z: 0}
-        outSlope: {x: 6.5269995, y: 0, z: 0}
+      - time: 0.96666664
+        value: {x: -200, y: 20, z: 15}
+        inSlope: {x: -75.00001, y: 108.33333, z: 126.249985}
+        outSlope: {x: -75.00001, y: 108.33333, z: 126.249985}
+        tangentMode: 0
+      - time: 1.1166667
+        value: {x: -200, y: 30, z: 36}
+        inSlope: {x: 0, y: 33.333324, z: 69.999985}
+        outSlope: {x: 0, y: 33.333324, z: 69.999985}
+        tangentMode: 0
+      - time: 1.2666667
+        value: {x: -200, y: 30, z: 36}
+        inSlope: {x: 249.99994, y: -149.99997, z: -179.99995}
+        outSlope: {x: 249.99994, y: -149.99997, z: -179.99995}
+        tangentMode: 0
+      - time: 1.3666667
+        value: {x: -150, y: 0, z: 0}
+        inSlope: {x: 99.99997, y: -149.99997, z: -179.99995}
+        outSlope: {x: 99.99997, y: -149.99997, z: -179.99995}
+        tangentMode: 0
+      - time: 1.4666667
+        value: {x: -180, y: 0, z: 0}
+        inSlope: {x: -149.99997, y: 0, z: 0}
+        outSlope: {x: -149.99997, y: 0, z: 0}
         tangentMode: 0
       - time: 1.6666666
-        value: {x: -0, y: 0, z: 0}
+        value: {x: -180, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: 
+    path: Mummy body/Mummy head/Mummy stray bandages
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -180, y: 0, z: 0}
+        inSlope: {x: -171.42857, y: 0, z: 0}
+        outSlope: {x: -171.42857, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.11666667
+        value: {x: -200, y: 0, z: 0}
+        inSlope: {x: 514.2857, y: 0, z: 0}
+        outSlope: {x: 514.2857, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.23333333
+        value: {x: -60, y: 0, z: 0}
+        inSlope: {x: -99.99994, y: 0, z: 0}
+        outSlope: {x: -99.99994, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: -200, y: 0, z: 0}
+        inSlope: {x: -579.9999, y: 0, z: 0}
+        outSlope: {x: -579.9999, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.41666666
+        value: {x: -180, y: 0, z: 0}
+        inSlope: {x: 120.00003, y: 0, z: 0}
+        outSlope: {x: 120.00003, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.85
+        value: {x: -180, y: 0, z: 0}
+        inSlope: {x: -27.910013, y: 0, z: -159.92003}
+        outSlope: {x: -27.910013, y: 0, z: -159.92003}
+        tangentMode: 0
+      - time: 1.05
+        value: {x: -191.164, y: 0, z: -63.967987}
+        inSlope: {x: -8.169983, y: -145.07242, z: -216.93507}
+        outSlope: {x: -8.169983, y: -145.07242, z: -216.93507}
+        tangentMode: 0
+      - time: 1.1833333
+        value: {x: -185.9, y: -38.685974, z: -79.172}
+        inSlope: {x: 109.90659, y: -16.119247, z: 206.89145}
+        outSlope: {x: 109.90659, y: -16.119247, z: 206.89145}
+        tangentMode: 0
+      - time: 1.3333334
+        value: {x: -158.85, y: 0, z: 0}
+        inSlope: {x: -36.73352, y: 128.95317, z: 263.9065}
+        outSlope: {x: -36.73352, y: 128.95317, z: 263.9065}
+        tangentMode: 0
+      - time: 1.4166666
+        value: {x: -180, y: 0, z: 0}
+        inSlope: {x: -126.900085, y: 0, z: 0}
+        outSlope: {x: -126.900085, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.6666666
+        value: {x: -180, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Mummy body/Mummy head/Mummy stray bandages (1)
   m_PositionCurves:
   - curve:
       serializedVersion: 2
@@ -727,7 +824,13 @@ AnimationClip:
       classID: 4
       customType: 14
       isPPtrCurve: 0
-    - path: 0
+    - path: 2395095833
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 2680604867
       attribute: 4
       script: {fileID: 0}
       classID: 4
@@ -2706,32 +2809,67 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: -0
-        inSlope: -18.648573
-        outSlope: -18.648573
+        value: -180
+        inSlope: -153.90001
+        outSlope: -153.90001
+        tangentMode: 10
+      - time: 0.11666667
+        value: -197.955
+        inSlope: 342.85715
+        outSlope: 342.85715
+        tangentMode: 10
+      - time: 0.23333333
+        value: -100
+        inSlope: -8.764282
+        outSlope: -8.764282
         tangentMode: 10
       - time: 0.35
-        value: -6.5270004
-        inSlope: -9.324286
-        outSlope: -9.324286
+        value: -200
+        inSlope: -278.5714
+        outSlope: -278.5714
         tangentMode: 10
-      - time: 0.5
-        value: -6.5270004
+      - time: 0.48333332
+        value: -160
+        inSlope: 50.000008
+        outSlope: 50.000008
+        tangentMode: 10
+      - time: 0.5833333
+        value: -180
+        inSlope: -100.00001
+        outSlope: -100.00001
+        tangentMode: 10
+      - time: 0.8333333
+        value: -180
+        inSlope: -75.00001
+        outSlope: -75.00001
+        tangentMode: 10
+      - time: 0.96666664
+        value: -200
+        inSlope: -75.00001
+        outSlope: -75.00001
+        tangentMode: 10
+      - time: 1.1166667
+        value: -200
         inSlope: 0
         outSlope: 0
         tangentMode: 10
-      - time: 0.8333333
-        value: -6.5270004
-        inSlope: 6.5269995
-        outSlope: 6.5269995
+      - time: 1.2666667
+        value: -200
+        inSlope: 249.99994
+        outSlope: 249.99994
         tangentMode: 10
-      - time: 1.3333334
-        value: -0
-        inSlope: 6.5269995
-        outSlope: 6.5269995
+      - time: 1.3666667
+        value: -150
+        inSlope: 99.99997
+        outSlope: 99.99997
+        tangentMode: 10
+      - time: 1.4666667
+        value: -180
+        inSlope: -149.99997
+        outSlope: -149.99997
         tangentMode: 10
       - time: 1.6666666
-        value: -0
+        value: -180
         inSlope: 0
         outSlope: 0
         tangentMode: 10
@@ -2739,7 +2877,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: 
+    path: Mummy body/Mummy head/Mummy stray bandages
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2747,25 +2885,60 @@ AnimationClip:
       m_Curve:
       - time: 0
         value: 0
+        inSlope: 41.70855
+        outSlope: 41.70855
+        tangentMode: 10
+      - time: 0.11666667
+        value: 4.8659973
         inSlope: 0
         outSlope: 0
+        tangentMode: 10
+      - time: 0.23333333
+        value: 0
+        inSlope: -20.854275
+        outSlope: -20.854275
         tangentMode: 10
       - time: 0.35
         value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 10
-      - time: 0.5
+      - time: 0.48333332
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5833333
         value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 10
       - time: 0.8333333
         value: 0
-        inSlope: 0
-        outSlope: 0
+        inSlope: 75.00001
+        outSlope: 75.00001
         tangentMode: 10
-      - time: 1.3333334
+      - time: 0.96666664
+        value: 20
+        inSlope: 108.33333
+        outSlope: 108.33333
+        tangentMode: 10
+      - time: 1.1166667
+        value: 30
+        inSlope: 33.333324
+        outSlope: 33.333324
+        tangentMode: 10
+      - time: 1.2666667
+        value: 30
+        inSlope: -149.99997
+        outSlope: -149.99997
+        tangentMode: 10
+      - time: 1.3666667
+        value: 0
+        inSlope: -149.99997
+        outSlope: -149.99997
+        tangentMode: 10
+      - time: 1.4666667
         value: 0
         inSlope: 0
         outSlope: 0
@@ -2779,7 +2952,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: 
+    path: Mummy body/Mummy head/Mummy stray bandages
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2787,25 +2960,60 @@ AnimationClip:
       m_Curve:
       - time: 0
         value: 0
+        inSlope: -86.11712
+        outSlope: -86.11712
+        tangentMode: 10
+      - time: 0.11666667
+        value: -10.046997
         inSlope: 0
         outSlope: 0
+        tangentMode: 10
+      - time: 0.23333333
+        value: 0
+        inSlope: 43.05856
+        outSlope: 43.05856
         tangentMode: 10
       - time: 0.35
         value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 10
-      - time: 0.5
+      - time: 0.48333332
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5833333
         value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 10
       - time: 0.8333333
         value: 0
-        inSlope: 0
-        outSlope: 0
+        inSlope: 56.250004
+        outSlope: 56.250004
         tangentMode: 10
-      - time: 1.3333334
+      - time: 0.96666664
+        value: 15
+        inSlope: 126.249985
+        outSlope: 126.249985
+        tangentMode: 10
+      - time: 1.1166667
+        value: 36
+        inSlope: 69.999985
+        outSlope: 69.999985
+        tangentMode: 10
+      - time: 1.2666667
+        value: 36
+        inSlope: -179.99995
+        outSlope: -179.99995
+        tangentMode: 10
+      - time: 1.3666667
+        value: 0
+        inSlope: -179.99995
+        outSlope: -179.99995
+        tangentMode: 10
+      - time: 1.4666667
         value: 0
         inSlope: 0
         outSlope: 0
@@ -2819,7 +3027,202 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: 
+    path: Mummy body/Mummy head/Mummy stray bandages
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -180
+        inSlope: -171.42857
+        outSlope: -171.42857
+        tangentMode: 10
+      - time: 0.11666667
+        value: -200
+        inSlope: 514.2857
+        outSlope: 514.2857
+        tangentMode: 10
+      - time: 0.23333333
+        value: -60
+        inSlope: -99.99994
+        outSlope: -99.99994
+        tangentMode: 10
+      - time: 0.33333334
+        value: -200
+        inSlope: -579.9999
+        outSlope: -579.9999
+        tangentMode: 10
+      - time: 0.41666666
+        value: -180
+        inSlope: 120.00003
+        outSlope: 120.00003
+        tangentMode: 10
+      - time: 0.85
+        value: -180
+        inSlope: -27.910013
+        outSlope: -27.910013
+        tangentMode: 10
+      - time: 1.05
+        value: -191.164
+        inSlope: -8.169983
+        outSlope: -8.169983
+        tangentMode: 10
+      - time: 1.1833333
+        value: -185.9
+        inSlope: 109.90659
+        outSlope: 109.90659
+        tangentMode: 10
+      - time: 1.3333334
+        value: -158.85
+        inSlope: -36.73352
+        outSlope: -36.73352
+        tangentMode: 10
+      - time: 1.4166666
+        value: -180
+        inSlope: -126.900085
+        outSlope: -126.900085
+        tangentMode: 10
+      - time: 1.6666666
+        value: -180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Mummy body/Mummy head/Mummy stray bandages (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.11666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.23333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.41666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.85
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.05
+        value: 0
+        inSlope: -145.07242
+        outSlope: -145.07242
+        tangentMode: 10
+      - time: 1.1833333
+        value: -38.685974
+        inSlope: -16.119247
+        outSlope: -16.119247
+        tangentMode: 10
+      - time: 1.3333334
+        value: 0
+        inSlope: 128.95317
+        outSlope: 128.95317
+        tangentMode: 10
+      - time: 1.4166666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.6666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Mummy body/Mummy head/Mummy stray bandages (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.11666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.23333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.41666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.85
+        value: 0
+        inSlope: -159.92003
+        outSlope: -159.92003
+        tangentMode: 10
+      - time: 1.05
+        value: -63.967987
+        inSlope: -216.93507
+        outSlope: -216.93507
+        tangentMode: 10
+      - time: 1.1833333
+        value: -79.172
+        inSlope: 206.89145
+        outSlope: 206.89145
+        tangentMode: 10
+      - time: 1.3333334
+        value: 0
+        inSlope: 263.9065
+        outSlope: 263.9065
+        tangentMode: 10
+      - time: 1.4166666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.6666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Mummy body/Mummy head/Mummy stray bandages (1)
     classID: 4
     script: {fileID: 0}
   m_EulerEditorCurves:
@@ -2860,7 +3263,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: 
+    path: Mummy body/Mummy head/Mummy stray bandages (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2870,7 +3273,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: 
+    path: Mummy body/Mummy head/Mummy stray bandages (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2880,7 +3283,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: 
+    path: Mummy body/Mummy head/Mummy stray bandages (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3033,7 +3436,37 @@ AnimationClip:
     path: Mummy body/Mummy head
     classID: 4
     script: {fileID: 0}
-  m_HasGenericRootTransform: 1
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Mummy body/Mummy head/Mummy stray bandages
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Mummy body/Mummy head/Mummy stray bandages
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Mummy body/Mummy head/Mummy stray bandages
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_GenerateMotionCurves: 0
   m_Events: []
